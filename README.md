@@ -27,7 +27,7 @@ Before running the application, make sure you have the following:
 
 2. API key for the SerpDog API. You can get it by signing up at [SerpDog](https://serpdog.io/). 🔑🔒
 
-3. Set up a backend server to make API requests. You can use the provided Express.js server in the 'server.js' file. Don't forget to replace `process.env.API_KEY` with your SerpDog API key. 🌐🔌
+3. Set up a backend server to make API requests. You can use the provided Express.js server in the 'app.js' file. Don't forget to replace `process.env.API_KEY` with your SerpDog API key. 🌐🔌
 
 4. Configure your backend URL in the React application. Update the `backendURL` in the 'Main.js' file to point to your backend server. 🚀🛠️
 
