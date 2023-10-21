@@ -1,6 +1,5 @@
 # ProductSearch
 
-```markdown
 # React Shopping App with Text-to-Speech 🛒🔊
 [VideoLink]([url](https://drive.google.com/file/d/1XM5x5qBAlBFwF-QRVpoaykdXHNrdfn9c/view?usp=sharing))
 
@@ -22,6 +21,8 @@ This is a simple React application that allows you to search for products using 
 For more information, visit [SerpDog](https://serpdog.io/). 🙌💼
 
 - Text-to-speech functionality is implemented using the Web Speech API. 🗣️🤖
+
+```markdown
 
 
 ## Prerequisites 📋
