@@ -3,18 +3,21 @@
 ```markdown
 # React Shopping App with Text-to-Speech 🛒🔊
 
-This is a simple React application that allows you to search for products using the SerpDog Google Shopping API and receive the product title and price. It also provides text-to-speech functionality using the Web Speech API. 📦📢
+This is a simple React application that allows you to search for products using the SerpDog Google Shopping API,
+ and receive the product title and price. It also provides text-to-speech functionality using the Web Speech API. 📦📢
 
 ## Features 🌟🔥
 
 - Product search using SerpDog Google Shopping API. 🛍️🔍
+
 - Displaying product title and price. 📜💰
+
 - Text-to-speech functionality for reading out the product information. 📢🗣️
+
 - Error handling for API requests. ❌🚫
 
-## Acknowledgments 🙏👏
-
-- This project uses the SerpDog API for product search. For more information, visit [SerpDog](https://serpdog.io/). 🙌💼
+- This project uses the SerpDog API for product search.
+For more information, visit [SerpDog](https://serpdog.io/). 🙌💼
 
 - Text-to-speech functionality is implemented using the Web Speech API. 🗣️🤖
 
