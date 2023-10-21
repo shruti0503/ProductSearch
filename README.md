@@ -1,7 +1,7 @@
 # ProductSearch
 
 # React Shopping App with Text-to-Speech 🛒🔊
-[VideoLink1]([url](https://drive.google.com/file/d/1XM5x5qBAlBFwF-QRVpoaykdXHNrdfn9c/view?usp=sharing))
+([VideoLink1](https://drive.google.com/file/d/1XM5x5qBAlBFwF-QRVpoaykdXHNrdfn9c/view?usp=sharing))
 
 ([VideoLink2](https://drive.google.com/file/d/1v0z5z3JU4lMbWgdsyR1eY2WHxJ8mc1Up/view?usp=sharing))
 
